@@ -1,7 +1,5 @@
 # Dieter
 
-**Version 1.0.0**
-
 A dieting app made to make dieting easier.
 
 ---
